@@ -1,0 +1,6 @@
+name: TechnoCakeWars
+version: '1.0-SNAPSHOT'
+main: ru.jadegg2568.technoCakeWars.Main
+api-version: '1.21'
+authors: [ JadeGG_ ]
+description: CakeWars minigame plugin
